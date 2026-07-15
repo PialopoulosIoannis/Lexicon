@@ -131,6 +131,7 @@ int counterdel;
   printInorder(node->right); // visit right subtree  
  }  
  };  
+#endif
   
   
 /* 
