@@ -1,3 +1,5 @@
+#ifndef LEXICON_H
+#define LEXICON_H
 #include <iostream>  
 #include <string>  
 using namespace std;  
